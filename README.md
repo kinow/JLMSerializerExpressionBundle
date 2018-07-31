@@ -5,7 +5,7 @@
 [![Total Downloads](https://poser.pugx.org/jlm/serializer-expression-bundle/downloads.png)](https://packagist.org/packages/jlm/serializer-expression-bundle)
 [![Latest Stable Version](https://poser.pugx.org/jlm/serializer-expression-bundle/v/stable.png)](https://packagist.org/packages/jlm/serializer-expression-bundle)
 
-#JLMSerializerExpressionBundle
+# JLMSerializerExpressionBundle
 
 This bundle adds makes it simple to integrate the [JLMSerializerExpression](http://github.com/jmcclell/JLMSerializerExpression) library into your Symfony application. The library adds an `@excludeIf` annotation with expression language support to [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) so that individual fields can be hidden based on expressions at runtime.
 
